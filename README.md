@@ -12,7 +12,7 @@
 
 <h3 align="left"> ABOUT ME 🚀
 <h5 align="left">
-  💻 I'm a Competitive Programmer from India 
+  💻 I'm a Competitive Programmer from India Skilled in C, C++, Java
   <br>🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Application. 
   <br>👨‍I am passionate about Web Devlopment, Machine Learning, & I enjoy learning new things.</h3>
 
