@@ -1,14 +1,17 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
-<h1 align="center">Hi 👋, I'm Vikas Bairagi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, I'm Vikas Bairagi</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
 <h3 align="left"> ABOUT ME 🚀
 <h5 align="left">
-  💻 I'm a Competitive Programmer from India Skilled in C, C++, Java
-  <br>🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Application. 
-  <br>👨‍I am passionate about Web Devlopment, Machine Learning, & I enjoy learning new things.</h3>
+  💻  I’m a Competitive Programmer Skilled in C, C++, JAVA, and Python, an enthusiastic and a junior pursuing a Bachelor's Degree (BCA) focused in computer programming from Parul University, Vadodara, (G.J.) 
+  <br>
+  <br>
+  🎓 I have a passion for problem-solving and like to solve challenges that help evolve analytical and programming skills.
+  <br>
+  <br>👨‍I am also passionate about Full Stack Web Devlopment, Machine Learning, Artificial Intelligence, Blockchain & I enjoy learning new things.</h3>
 
  📫 Reach me at **vikasbairagi160@gmail.com**
 
