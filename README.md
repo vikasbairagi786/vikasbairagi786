@@ -17,9 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/channel/UC_XVVouQPoBqI_18Osft3Cw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC_XVVouQPoBqI_18Osft3Cw" height="30" width="40" /></a>
 <a href="https://twitter.com/vikasbairagi08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikasbairagi08" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vikasbairagi786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikasbairagi786" height="30" width="40" /></a>
-<a href="https://instagram.com/vikasbairagi08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikasbairagi08" height="30" width="40" /></a>
+<a href="https://instagram.com/vikaas.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikasbairagi08" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vikas160" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vikas160" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vikas160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vikas160" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vikas160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikas160" height="30" width="40" /></a>
