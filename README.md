@@ -39,9 +39,6 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasbairagi786&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
-<!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/vikasbairagi786/count.svg?align=center)
 <br>
 
   
