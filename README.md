@@ -77,50 +77,26 @@
 </div>  
 
 ----
- ### 📊GitHub Stats :
+### 📊GitHub Stats :
 <!-- ![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikasbairagi786&theme=dracula&hide_border=true)](https://github.com/vikasbairagi786?tab=repositories) -->
 [![Code's github activity graph](https://githubraw.com/CodeWhiteWeb/CodeWhiteWeb/output/github-contribution-grid-snake.svg)](https://skyline.github.com/vikasbairagi786)
   
 ----
-  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+  ---
   
-  
-  
-
 <!-- STATISTICS ABOUT PROFILE -->
 
 <br><br>
 <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasbairagi786&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
- 
- ---
-<br>
 
-  
   <!-- GITHUB STATISTICS -->
  ![Github stats](https://github-readme-stats.vercel.app/api?username=vikasbairagi786)  
- 
- 
- <hr>
+
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikasbairagi786&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
-         
-
----
- 
-<!-- ACTIVITY GRAPH TRACKER -->
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=vikasbairagi786&theme=react-dark)](https://github.com/vikasbairagi786/github-readme-activity-graph)
-
-  
-
----
-  
- 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=vikasbairagi786&label=Profile%20views&color=0e75b6&style=flat" alt="vikasbairagi786" /> </p>
