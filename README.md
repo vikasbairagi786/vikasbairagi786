@@ -10,12 +10,12 @@
 
 <h3 align="left"> ABOUT ME 🚀
 <h5 align="left">
-  💻  I’m a Competitive Programmer Skilled in C, C++, JAVA, and Python, an enthusiastic and a junior pursuing a Bachelor's Degree (BCA) focused in computer programming from Parul University, Vadodara, (G.J.) 
+  💻  I’m a Competitive Programmer Skilled in C, C++. An enthusiastic and a junior pursuing a Master's Degree (MCA) focused in computer programming from Devi Ahilya Vishwavidhyalaya, Indore (M.P.) 
   <br>
   <br>
   🎓 I have a passion for problem-solving and like to solve challenges that help evolve analytical and programming skills.
   <br>
-  <br>👨‍I am also passionate about Full Stack Web Devlopment, Machine Learning, Artificial Intelligence, Blockchain & I enjoy learning new things.</h3>
+  <br>👨‍I am  passionate about Full Stack Web Devlopment, UI/UX, Blockchain Devlopment & I enjoy learning new things.</h3>
 
  📫 Reach me at **vikasbairagi160@gmail.com**
 
